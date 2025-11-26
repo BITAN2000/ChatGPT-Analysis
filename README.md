@@ -2,26 +2,26 @@
 
 The dataset contains 4 fields:
 
-Review ID:
+**1. Review ID:**
 A unique identifier for every review
 
-Review:
+**2. Review:**
 Comments given by the user
 
-Rating:
+**3. Rating:**
 Represents the levels of satisfaction on a scale of 0-5
 
-Review date:
+**4. Review date:**
 When the review was posted
 
 
 The key objectives of this problem are:
 
-Sentiment Analysis: 
+**1. Sentiment Analysis:**
 Identify positive, negative, and neutral user sentiments
 
-Issue Identification:
+**2. Issue Identification:**
 Detect common problems driving negative reviews
 
-Time-Series Analysis:
+**3. Time-Series Analysis:**
 Track how sentiment evolves over time
